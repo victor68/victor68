@@ -4,10 +4,11 @@
 ---
 
 ### About Me
-- 🎓 Recently graduated and starting my career as a Data Analyst
-- 💻 Passionate about SQL, Python, and Business Intelligence tools
-- 🌱 Currently improving my skills in SQL, Python, and Power BI
-- ⚡ Fun fact: I am very persistent and love solving complex problems
+- 🎓 Egresado de la **Facultad de Ingeniería de la UNAM**, carrera **Ingeniería Geomática**
+- 💻 Diplomado en **Bases de Datos** por la UNAM
+- 🌱 Actualmente cursando **Data Analysis** en **EBAC**
+- 💻 Apasionado por **SQL, Python y herramientas de Business Intelligence**
+- ⚡ Fun fact: Soy muy persistente y me encanta resolver problemas complejos
 
 ---
 
